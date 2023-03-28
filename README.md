@@ -10,5 +10,3 @@
 ## To Build the web to App
 
 ### $ cordava build android
-
-## The apk is on the rute: 
